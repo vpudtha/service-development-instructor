@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\ITUStudent\dev\beginning-services-jun-2023-instructor\instructor\NewDotNetStuff\NewDotNetStuff\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\ITUStudent\dev\beginning-services-jun-2023-instructor\instructor\NewDotNetStuff\NewDotNetStuff\.editorconfig" />
+  </ItemGroup>
+
+</Project>
